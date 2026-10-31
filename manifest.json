@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Random Quran Ayah",
+  "version": "1.0.0",
+  "description": "Replaces your New Tab with a random Quran ayah (Uthmani text) with its Arabic tafseer (Al-Muyassar).",
+  "chrome_url_overrides": { "newtab": "index.html" },
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon.png" }
+}
